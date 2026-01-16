@@ -26,7 +26,7 @@
 | `REPO_TOKEN` | ✅ | GitHub PAT（用于自动更新 Cookie） |
 | `TG_BOT_TOKEN` | ✅ | Telegram Bot Token |
 | `TG_CHAT_ID` | ✅ | Telegram Chat ID |
-| `PROXY_HY2` | ✅ | 用于通过人机验证 |
+| `PROXY_HY2` | ✅ | 用于通过人机验证 代理 URL 格式 `hysteria2://password@host:port?sni=xxx&alpn=xxx&insecure=1#name`  |
 | `GH_SESSION` | ❌ | 自动生成，无需手动添加 |
 
 ---
